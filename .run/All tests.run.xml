@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="All tests" type="JUnit" factoryName="JUnit">
+    <module name="denthub" />
+    <option name="PACKAGE_NAME" value="it.uniroma2.denthub" />
+    <option name="TEST_OBJECT" value="package" />
+    <option name="SEARCHING_TYPE" value="allInPackage" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

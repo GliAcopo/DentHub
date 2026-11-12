@@ -1,0 +1,13 @@
+# Maven
+target/
+
+# IntelliJ IDEA (shared run configurations live in .run/)
+.idea/
+*.iml
+out/
+
+# Local data and configuration written by the file and DB modes
+data/
+*.local.properties
+
+.DS_Store

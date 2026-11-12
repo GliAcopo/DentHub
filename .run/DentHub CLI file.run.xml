@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="DentHub CLI file" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="it.uniroma2.denthub.Main" />
+    <module name="denthub" />
+    <option name="PROGRAM_PARAMETERS" value="cli file" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
